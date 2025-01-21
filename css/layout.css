@@ -1,0 +1,52 @@
+/* 헤더탑 */
+div.hdrTop{
+    background-color: #0022FF;
+}
+div.hdrTop>div.hdrTopGrid{
+    
+}
+div.hdrTop>div.hdrTopGrid>i{}
+div.hdrTop>div.hdrTopGrid>table{}
+div.hdrTop>div.hdrTopGrid>table>table1{}
+div.hdrTop>div.hdrTopGrid>table>table2{}
+div.hdrTop>div.hdrTopGrid>table>table3>i{}
+
+/* 헤더 */
+div.header{}
+div.header>div.headerGrid{}
+div.header>div.headerGrid>p{}
+
+/* 컨텐츠1 */
+div.content cnt1{}
+div.content cnt1>div.contentGrid{}
+div.content cnt1>div.contentGrid>div.header{}
+div.content cnt1>div.contentGrid>div.header>form{}
+div.content cnt1>div.contentGrid>div.header>form>input{}
+div.content cnt1>div.contentGrid>div.header>form>button{}
+div.content cnt1>div.contentGrid>div.section{}
+div.content cnt1>div.contentGrid>div.section>h2{}
+div.content cnt1>div.contentGrid>div.section>div.article{}
+div.content cnt1>div.contentGrid>div.section>div.article>img{}
+div.content cnt1>div.contentGrid>div.section>div.article>texts{}
+div.content cnt1>div.contentGrid>div.section>div.article>texts>h3{}
+div.content cnt1>div.contentGrid>div.section>div.article>texts>h4{}
+div.content cnt1>div.contentGrid>div.section>div.article>texts>p{}
+div.content cnt1>div.contentGrid>div.section>div.article>texts>button{}
+ 
+/* 컨텐츠2 */
+div.content cnt2{}
+div.content cnt2>div.contentGrid{}
+
+/* 컨텐츠 3 */
+div.content cnt3{}
+div.content cnt3>div.contentGrid{}
+
+/* 푸터 */
+div.footer{}
+div.footer>div.footerGrid{}
+div.footer>div.footerGrid>div.table{}
+div.footer>div.footerGrid>div.table>table1{}
+div.footer>div.footerGrid>div.table>table2{}
+div.footer>div.footerGrid>div.table>table2>i{}
+div.footer>div.footerGrid>h5{}
+div.footer>div.footerGrid>p{}
